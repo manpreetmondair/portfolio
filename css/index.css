@@ -1,0 +1,86 @@
+
+* {
+    box-sizing: border-box;
+}
+.hero{
+    background-color: lightgrey;
+}
+img {
+    width: 100%;
+}
+.nav{
+    background-color: #47474C;
+    color: #ffffff;
+}
+
+.nav a,
+.nav a:hover {
+    /*text-decoration: none;*/
+    color: #ffffff;
+}
+.title-main{
+    font-family: 'Open Sans', sans-serif !important;
+    font-size: 50px;
+}
+.title-contact{
+    font-family: 'Raleway', sans-serif !important;
+
+}
+
+.notification{
+    background-color: lightslategray;
+}
+
+.title-more-space {
+    line-height: 2;
+}
+.skill {
+    margin-right: 40px;
+    font-size: 20px;
+}
+
+.skill:last-child {
+    margin-right: 0;
+}
+.screen{
+ /*width:80%;
+ height: 100%*/
+    height: 500px;
+    width: 100%;
+}
+/*.sampletitle{
+    text-align: center;
+    color: darkgreen;
+    font-size: 20px;
+}*/
+.footer{
+    background-color: #47474C;
+    color: #ffffff;
+}
+.font-color{
+    color: rgba(255, 255, 255, 0.5);
+}
+.footer1{
+    background-color: lightslategrey;
+    color: #ffffff;
+}
+.sampletitle {
+    text-align: center;
+    /*width: 100px;
+    height: 100px;*/
+    background: lightgray;
+    transition: width 1s;
+    font-size: 20px;
+}
+
+.sampletitle:hover {
+    width: 300px;
+}
+
+.popover-box {
+    position: relative;
+    z-index: 1;
+    background: black;
+    height: 300px;
+    width: 100%;
+}
