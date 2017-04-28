@@ -1,8 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import Work from './Work';
+import WorkSample from './WorkSample';
 
 ReactDOM.render(
-  <Work />,
+  <WorkSample />,
   document.getElementById('root')
 );
