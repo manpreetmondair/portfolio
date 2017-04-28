@@ -54,6 +54,7 @@ img {
     font-size: 20px;
 }*/
 .footer{
+    /*margin-bottom: 20px;*/
     background-color: #47474C;
     color: #ffffff;
 }
@@ -84,3 +85,28 @@ img {
     height: 300px;
     width: 100%;
 }
+.links{
+    padding-top: 30px;
+}
+.nav-left{
+    margin-left: 20px;
+    margin-bottom: 10px;
+}
+.nav-item{
+    margin-right: 20px;
+}
+.headingstyle{
+    font-family: 'Palanquin Dark', sans-serif !important;
+}
+
+
+.left{
+    padding-left: 40px;
+}
+.fonting{
+    font-family: 'Raleway', sans-serif !important;
+
+
+}
+
+ 
